@@ -21,8 +21,8 @@
         text-decoration: none;
         border-radius: 5px;
         font-weight: bold;
-        margin-top: 40px;
-        margin-bottom: 25px;    
+        margin-top: 20px;
+        margin-bottom: 15px;    
         cursor: pointer; 
         animation: glowing 1300ms infinite;
 
@@ -104,9 +104,13 @@
         font-weight: 600;
     }
     .otherData{
-        margin: 20px 0;
+        margin: 15px 0;
     }
     .footerData{
         margin-top: 40px;
+    }
+    .priya-img{
+      border-radius: 50%;
+      width: 90px;
     }
  
